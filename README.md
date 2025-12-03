@@ -230,7 +230,6 @@ services:
 - [Frontend Documentation](upload-frontend/README.md)
 - [API Documentation](upload-frontend/docs/API.md)
 - [Component Documentation](upload-frontend/docs/COMPONENTS.md)
-- [Deployment Guide](upload-frontend/docs/DEPLOYMENT.md)
 
 ## 🤝 Contributing
 
